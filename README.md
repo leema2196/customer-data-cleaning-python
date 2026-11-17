@@ -1,8 +1,8 @@
-Customer-data-cleaning-python
-
+**Customer-data-cleaning-python
+**
 This beginner level data science project demonstrates how to clean the raw customer data using python and pandas.
 
-Operations performed:
+**Operations performed:**
 
 Created a customer dataset.
 
@@ -16,10 +16,10 @@ Performed some basic statistical analysis.
 
 Exported the cleaned dataset to excel.
 
-Technologies used:
+**Technologies used:**
 
 python, numpy, pandas, google colab and excel
 
-Project outcome:
+**Project outcome:**
 
 Generated a cleaned customer database useful for further reporting and analysis.
