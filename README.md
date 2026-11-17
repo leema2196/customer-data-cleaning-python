@@ -1,5 +1,5 @@
-**Customer-data-cleaning-python
-**
+**Customer-data-cleaning-python**
+
 This beginner level data science project demonstrates how to clean the raw customer data using python and pandas.
 
 **Operations performed:**
