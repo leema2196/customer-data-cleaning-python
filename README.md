@@ -5,10 +5,15 @@ This beginner level data science project demonstrates how to clean the raw custo
 Operations performed:
 
 Created a customer dataset.
+
 Identified and removed duplicate records.
+
 Handled missing values using mean, median and mode.
+
 Standardized customer names, city and email addresses.
-performed some basic statistical analysis.
+
+Performed some basic statistical analysis.
+
 Exported the cleaned dataset to excel.
 
 Technologies used:
